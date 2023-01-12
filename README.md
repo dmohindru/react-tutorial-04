@@ -10,3 +10,4 @@
 
 # Important
 - [Brief App descrition](https://www.udemy.com/course/react-redux/learn/lecture/34694142#content)
+- [Requirement for component keys](https://www.udemy.com/course/react-redux/learn/lecture/34694280#content)
